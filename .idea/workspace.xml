@@ -10,7 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dddf9ac7-3cae-4b16-9420-cc90685af9c2" name="Default Changelist" comment="" />
+    <list default="true" id="dddf9ac7-3cae-4b16-9420-cc90685af9c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/services.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,6 +170,10 @@
       <screen x="70" y="27" width="1491" height="861" />
     </state>
     <state x="527" y="259" width="567" height="403" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1491.861@70.27.1491.861" timestamp="1598706527517" />
+    <state x="165" y="27" width="621" height="773" key="find.popup" timestamp="1600786092735">
+      <screen x="70" y="27" width="1210" height="773" />
+    </state>
+    <state x="165" y="27" width="621" height="773" key="find.popup/70.27.1210.773@70.27.1210.773" timestamp="1600786092735" />
     <state x="403" y="314" width="540" height="185" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1597526366962">
       <screen x="70" y="27" width="1210" height="773" />
     </state>
