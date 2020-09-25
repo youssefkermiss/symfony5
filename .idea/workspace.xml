@@ -11,11 +11,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dddf9ac7-3cae-4b16-9420-cc90685af9c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7b7baf70-44a1-42f7-8f5b-d9bd59c1f2a6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7b7baf70-44a1-42f7-8f5b-d9bd59c1f2a6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7b7baf70-44a1-42f7-8f5b-d9bd59c1f2a6/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7b7baf70-44a1-42f7-8f5b-d9bd59c1f2a6/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7b7baf70-44a1-42f7-8f5b-d9bd59c1f2a6/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7b7baf70-44a1-42f7-8f5b-d9bd59c1f2a6/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7b7baf70-44a1-42f7-8f5b-d9bd59c1f2a6/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7b7baf70-44a1-42f7-8f5b-d9bd59c1f2a6/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7b7baf70-44a1-42f7-8f5b-d9bd59c1f2a6/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7b7baf70-44a1-42f7-8f5b-d9bd59c1f2a6/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/services.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/ConferenceController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ConferenceController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Comment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/easy_admin.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/easy_admin.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/test/validator.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/test/validator.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/translation.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/translation.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/validator.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/validator.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes/easy_admin.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes/easy_admin.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/Version20200923000345.php" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/Version20200923000345.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/Version20200923000821.php" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/Version20200923000821.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EntityListener/ConferenceEntityListener.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/EntityListener/ConferenceEntityListener.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EventSubscriber/TwigEventSubscriber.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/EventSubscriber/TwigEventSubscriber.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Form/CommentFormType.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Form/CommentFormType.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/conference/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/conference/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/translations/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +137,8 @@
       <path value="$PROJECT_DIR$/vendor/twig/intl-extra" />
       <path value="$PROJECT_DIR$/vendor/symfony/string" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
     </include_path>
   </component>
   <component name="ProjectId" id="1fYFrtHDfObosHOgyRUtPmMJ3y9" />
@@ -129,6 +151,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -147,6 +170,7 @@
       <workItem from="1600377164346" duration="33000" />
       <workItem from="1600377322230" duration="6828000" />
       <workItem from="1600788055079" duration="7111000" />
+      <workItem from="1600989798191" duration="3958000" />
     </task>
     <servers />
   </component>
@@ -166,25 +190,33 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="222" y="73" width="800" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600380201039">
+    <state x="222" y="37" width="800" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600990397211">
       <screen x="70" y="27" width="1210" height="773" />
     </state>
-    <state x="222" y="73" width="800" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1210.773@70.27.1210.773" timestamp="1600380201039" />
+    <state x="222" y="37" width="800" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1210.773@70.27.1210.773" timestamp="1600990397211" />
     <state x="527" y="259" width="567" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598706527517">
       <screen x="70" y="27" width="1491" height="861" />
     </state>
     <state x="527" y="259" width="567" height="403" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1491.861@70.27.1491.861" timestamp="1598706527517" />
+    <state x="211" y="64" width="924" height="697" key="DBNavigator.ProjectSettingsDialog" timestamp="1600990013523">
+      <screen x="70" y="27" width="1210" height="773" />
+    </state>
+    <state x="211" y="64" width="924" height="697" key="DBNavigator.ProjectSettingsDialog/70.27.1210.773@70.27.1210.773" timestamp="1600990013523" />
     <state x="376" y="132" width="593" height="574" key="NewPhpClassDialog" timestamp="1600857028819">
       <screen x="70" y="27" width="1210" height="773" />
     </state>
     <state x="376" y="132" width="593" height="574" key="NewPhpClassDialog/70.27.1210.773@70.27.1210.773" timestamp="1600857028819" />
+    <state x="167" y="35" width="1016" height="743" key="SettingsEditor" timestamp="1600989894205">
+      <screen x="70" y="27" width="1210" height="773" />
+    </state>
+    <state x="167" y="35" width="1016" height="743" key="SettingsEditor/70.27.1210.773@70.27.1210.773" timestamp="1600989894205" />
     <state x="165" y="27" width="621" height="773" key="find.popup" timestamp="1600786092735">
       <screen x="70" y="27" width="1210" height="773" />
     </state>
     <state x="165" y="27" width="621" height="773" key="find.popup/70.27.1210.773@70.27.1210.773" timestamp="1600786092735" />
-    <state x="403" y="314" width="540" height="185" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1597526366962">
+    <state x="403" y="308" width="540" height="185" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1600956576952">
       <screen x="70" y="27" width="1210" height="773" />
     </state>
-    <state x="403" y="314" width="540" height="185" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/70.27.1210.773@70.27.1210.773" timestamp="1597526366962" />
+    <state x="403" y="308" width="540" height="185" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/70.27.1210.773@70.27.1210.773" timestamp="1600956576952" />
   </component>
 </project>
